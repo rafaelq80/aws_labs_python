@@ -5,10 +5,9 @@
 <br />
 
 <div align="center">
-	<img src="https://i.imgur.com/OHgzB2m.png" title="source: imgur.com" width="40%"/>
-    &#09&#09&#09
-    <img src="https://i.imgur.com/0ct3jDb.png" title="source: imgur.com" width="25%"/>
+	<img src="https://i.imgur.com/3k3tGOM.png" title="source: imgur.com" width="50%"/>
 </div>
+
 
 <br />
 

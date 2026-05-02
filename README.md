@@ -49,9 +49,6 @@ Os laboratórios cobrem desde os fundamentos da linguagem Python até tópicos m
 | 128  | Administração do sistema com Python                          |
 | 129  | Usando o depurador                                           |
 | 130  | Depurando Hello World e Caesar Cipher                        |
-| 134  | Avaliar uma ferramenta de DevOps                             |
-| 135  | Explore o valor da automação                                 |
-| 136  | Compare e contraste automação e orquestração                 |
 | 141  | [Desafio] Exercício Python                                   |
 
 ------
@@ -72,6 +69,13 @@ Cada laboratório está organizado em sua própria pasta, contendo o script prin
  ┣ 📂lab_115
  ┣ 📂lab_118
  ┣ 📂lab_120
+ ┣ 📂lab_122
+ ┣ 📂lab_124
+ ┣ 📂lab_126
+ ┣ 📂lab_128
+ ┣ 📂lab_129
+ ┣ 📂lab_130
+ ┣ 📂lab_141
  ┣ 📜.gitignore
  ┣ 📜README.md
  ┗ 📜requirements.txt
